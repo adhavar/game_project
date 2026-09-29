@@ -45,7 +45,7 @@ def guessing_game():
         if i == 0:
             print(f'You lost! The number is {number}')
             
-        again = input("\nDo you want to play agin (Y/N): ")
+        again = input("\nDo you want to play again? (Y/N): ")
 
 if __name__== "__main__":
     guessing_game()
