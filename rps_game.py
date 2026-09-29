@@ -1,6 +1,6 @@
 #Lab 1
 # Group 2
-# Author =Christian S
+# Author = Christian S
 # 09/25/2026
 
 import random
