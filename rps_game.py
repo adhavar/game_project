@@ -6,6 +6,11 @@
 import random
 
 def rps_game():
+  '''
+  Generates a random number (1, 2, 3) and will ask you to choose a number.
+  Depending on the combination of the random number generated and the number you chose, 
+  the program will decide on who won or if it is a tie.
+  '''
   play = "yes"
   
   while play == "yes":
